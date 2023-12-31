@@ -1,3 +1,4 @@
+//The Author and Book Classes
 /*A class called Author is designed as shown in the class diagram. It contains:
 
 Three private member variables: name (String), email (String), and gender (char of either 'm' or 'f' - you might also use a boolean variable called isMale having value of true or false).
