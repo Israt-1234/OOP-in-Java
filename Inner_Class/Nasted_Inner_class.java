@@ -1,4 +1,5 @@
-
+//4 type of inner class
+//1.nasted
 package Nasted_Inner_class;
 //outer class
 public class Outer {
