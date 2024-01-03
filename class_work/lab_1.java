@@ -1,24 +1,3 @@
-//class 1
-package classw;
-
-public class ClassW {
-
-    public static void main(String[] args) {
-      Student s1=new Student();
-    
-      s1.setGrade(89);
-      s1.setId("gjfh");
-      s1.setAge(34);
-      s1.setName("hello");
-      s1.getName();
-      s1.getGrade();
-      s1.getAge();
-      s1.getId();
-      s1.display();
-    }
-    
-}
-
 
 package classw;
 public class Student {
@@ -72,3 +51,23 @@ public class Student {
 }
 }
  
+//class 1
+package classw;
+
+public class ClassW {
+
+    public static void main(String[] args) {
+      Student s1=new Student();
+    
+      s1.setGrade(89);
+      s1.setId("gjfh");
+      s1.setAge(34);
+      s1.setName("hello");
+      s1.getName();
+      s1.getGrade();
+      s1.getAge();
+      s1.getId();
+      s1.display();
+    }
+    
+}
